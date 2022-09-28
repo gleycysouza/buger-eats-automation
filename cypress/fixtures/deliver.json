@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Gleycy Kelly",
+        "cpf": "00000000012",
+        "email": "gk@email.com",
+        "whatsapp": "62111111111",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Gleycy Kelly",
+        "cpf": "00000000012.",
+        "email": "gk@email.com",
+        "whatsapp": "62111111111",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Gleycy Kelly",
+        "cpf": "00000000012",
+        "email": "gk.email.com",
+        "whatsapp": "62111111111",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
